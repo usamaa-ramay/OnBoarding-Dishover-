@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primaryColor">#F67939</color>
+    <color name="secondaryColor">#D9D9D9</color>
+    <color name="gray">#ABA9A9</color>
+    <color name="textColor">#272626</color>
+    <color name="passwordTextColor">#AAAAAA</color>
+    <color name="textFieldColor">#ECECEC</color>
+</resources>
